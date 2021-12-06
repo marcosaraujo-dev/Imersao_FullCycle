@@ -50,10 +50,11 @@ Aplicativo modelo criado no curso da imersão FUll Cycle, onde o intuito é a cr
 ### Branch : 01-Dev-aula01
 #### Foram realizadas as seguintes atividades:
 
-- [x] 
-- [x]  
-- [x] 
-- [x] 
+- [x] Criação da configuração para utilização do docker na aplicação
+- [x] Criação das classes de entidades  
+- [x] Criação das classes de testes das entidades
+- [x] Criação da classe de repositório
+- [x] Criação da classe de fabrica do repositório
 
 
 
