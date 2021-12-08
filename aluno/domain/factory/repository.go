@@ -1,6 +1,6 @@
 package factory
 
-import "github.com/marcos-dev/imersao5-gateway/domain/repository"
+import "github.com/marcosaraujo-dev/Imersao_FullCycle/domain/repository"
 
 // Cria uma Fabrica de repositório da transação
 type RepositoryFactory interface {
